@@ -1,2 +1,2 @@
 # job-satisfaction-vn
-Predicts employees satisfaction
+Predicts job satisfaction based on data from employees
